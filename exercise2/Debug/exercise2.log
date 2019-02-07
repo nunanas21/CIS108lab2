@@ -1,0 +1,8 @@
+﻿  exercise2.cpp
+c:\users\nunanas21\source\repos\cis108_lab1\exercise2\exercise2.cpp(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\nunanas21\source\repos\cis108_lab1\exercise2\exercise2.cpp(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\nunanas21\source\repos\cis108_lab1\exercise2\exercise2.cpp(25): error C2676: binary '+': 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' does not define this operator or a conversion to a type acceptable to the predefined operator
+c:\users\nunanas21\source\repos\cis108_lab1\exercise2\exercise2.cpp(27): error C2371: 'confidence': redefinition; different basic types
+  c:\users\nunanas21\source\repos\cis108_lab1\exercise2\exercise2.cpp(17): note: see declaration of 'confidence'
+c:\users\nunanas21\source\repos\cis108_lab1\exercise2\exercise2.cpp(28): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\nunanas21\source\repos\cis108_lab1\exercise2\exercise2.cpp(30): warning C4390: ';': empty controlled statement found; is this the intent?
