@@ -1,3 +1,19 @@
-﻿  exercise1.cpp
-c:\users\rta0091\source\repos\cis108_lab\exercise1\exercise1.cpp(20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-  exercise1.vcxproj -> C:\Users\RTA0091\source\repos\CIS108_LAB\Debug\exercise1.exe
+﻿  calculator.cpp
+c:\users\nunanas21\source\repos\exercise1\exercise1\calculator.cpp(12): error C2086: 'double calculator::memory_clear': redefinition
+  c:\users\nunanas21\source\repos\exercise1\exercise1\calculator.h(23): note: see declaration of 'calculator::memory_clear'
+c:\users\nunanas21\source\repos\exercise1\exercise1\calculator.cpp(47): error C2296: '^': illegal, left operand has type 'double'
+c:\users\nunanas21\source\repos\exercise1\exercise1\calculator.cpp(47): error C2297: '^': illegal, right operand has type 'double'
+c:\users\nunanas21\source\repos\exercise1\exercise1\calculator.cpp(54): error C2440: '=': cannot convert from 'double (__cdecl *)(void)' to 'double'
+  c:\users\nunanas21\source\repos\exercise1\exercise1\calculator.cpp(54): note: There is no context in which this conversion is possible
+c:\users\nunanas21\source\repos\exercise1\exercise1\calculator.cpp(64): error C2086: 'double calculator::memory_clear': redefinition
+  c:\users\nunanas21\source\repos\exercise1\exercise1\calculator.h(23): note: see declaration of 'calculator::memory_clear'
+c:\users\nunanas21\source\repos\exercise1\exercise1\calculator.cpp(65): error C2065: 'memoryClear': undeclared identifier
+c:\users\nunanas21\source\repos\exercise1\exercise1\calculator.cpp(65): error C2059: syntax error: ';'
+c:\users\nunanas21\source\repos\exercise1\exercise1\calculator.cpp(68): error C2059: syntax error: '}'
+c:\users\nunanas21\source\repos\exercise1\exercise1\calculator.cpp(68): error C2143: syntax error: missing ';' before '}'
+  main.cpp
+c:\users\nunanas21\source\repos\exercise1\exercise1\main.cpp(43): error C3861: 'shiftRightValue': identifier not found
+c:\users\nunanas21\source\repos\exercise1\exercise1\main.cpp(117): warning C4551: function call missing argument list
+c:\users\nunanas21\source\repos\exercise1\exercise1\main.cpp(125): warning C4551: function call missing argument list
+c:\users\nunanas21\source\repos\exercise1\exercise1\main.cpp(28): fatal error C1075: '{': no matching token found
+  Generating Code...
