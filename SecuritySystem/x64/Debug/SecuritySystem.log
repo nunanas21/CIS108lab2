@@ -1,0 +1,9 @@
+﻿  SecuritySystem.cpp
+c:\users\nunanas21\source\repos\cis108_lab4_securitysystem\securitysystem\securitysystem.cpp(44): warning C4553: '==': result of expression not used; did you intend '='?
+c:\users\nunanas21\source\repos\cis108_lab4_securitysystem\securitysystem\securitysystem.cpp(54): error C2143: syntax error: missing ')' before '{'
+c:\users\nunanas21\source\repos\cis108_lab4_securitysystem\securitysystem\securitysystem.cpp(97): error C2665: 'std::stoi': none of the 2 overloads could convert all the argument types
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\string(321): note: could be 'int std::stoi(const std::wstring &,size_t *,int)'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\string(179): note: or       'int std::stoi(const std::string &,size_t *,int)'
+  c:\users\nunanas21\source\repos\cis108_lab4_securitysystem\securitysystem\securitysystem.cpp(97): note: while trying to match the argument list '(int)'
+c:\users\nunanas21\source\repos\cis108_lab4_securitysystem\securitysystem\securitysystem.cpp(198): error C2664: 'void DoorLock::initializeDoorLock(DoorLock::DoorLockEventHandler)': cannot convert argument 1 from 'void (__cdecl *)(DoorLock::DoorLockEvent,int)' to 'DoorLock::DoorLockEventHandler'
+  c:\users\nunanas21\source\repos\cis108_lab4_securitysystem\securitysystem\securitysystem.cpp(198): note: No constructor could take the source type, or constructor overload resolution was ambiguous
